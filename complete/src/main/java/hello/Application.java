@@ -15,7 +15,7 @@ public class Application {
     }
 
     public static void main(String[] args) {
-        System.out.println("Main");
+        System.out.println("Main Application");
         SpringApplication.run(Application.class, args);
     }
 
